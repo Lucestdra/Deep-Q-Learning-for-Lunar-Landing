@@ -4,6 +4,6 @@ This repository contains an implementation of a Deep Q-Learning (DQN) agent to s
 # Before Start
 
 !pip install gymnasium
-!pip install "gymnasium[atari, accept-rom-license]"
-!apt-get install -y swig
-!pip install gymnasium[box2d]
+\n!pip install "gymnasium[atari, accept-rom-license]"
+\n!apt-get install -y swig
+\n!pip install gymnasium[box2d]
